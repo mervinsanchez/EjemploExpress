@@ -1,0 +1,20 @@
+{
+    "name": "ejemploexpress",
+    "version": "1.0.0",
+    "description": "Ejercicio 24_07_20.18",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "keywords": [
+        "nodejs",
+        "ejemploExpress",
+        "2018-07-24"
+    ],
+    "author": "Mervin Sánchez",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
